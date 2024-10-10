@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dev's Website</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <img id = "berry" src = "strawberry.png">
+        <h1 style = "color: #ff5c5c">Strawberry Milk Recipe</h1>
+        <h3 style = "color: #ff5c5c">Ingredients:</h3>
+        <p><b>1. </b>2 cups of (refrigerated) whole milk</p>
+        <p><b>2. </b>1/2 cup strawberries</p>
+        <p><b>3. </b>1/4 cup sugar</p>
+        <p><b>4. </b>1/4 cup water</p>
+        <h3 style = "color: #ff5c5c">Directions:</h3>
+        <p><b>1. </b>In a <i>small bowl</i>, mix together your strawberries, sugar, and water.</p>
+        <p><b>2. </b>Boil your mixture on <i>low heat</i> for <i>10 minutes</i>, making sure to stir from time to time.</p>
+        <p><b>3. </b>Turn off the heat and pour your mixture through <a href = "www.amazon.com/Winco-MS3A-8S-Strainer-Single-Diameter/dp/B001VZ5E40/ref=sr_1_6" style = "color: #5ab9e6"><i>a strainer</i></a> and into a container. Throw away the solids.</p>
+        <p><b>4. </b>Pour your milk into your container and mix.</p>
+        <p><b>5. </b>Serve and enjoy!</p>
+    </body>
+</html>
